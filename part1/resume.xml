@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="resume.xsl"?>
+<!-- By Louie Xie, 3558109 -->
+
+<resume xmlns="http://localhost"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://localhost  resume.xsd">
+    <information>
+        <name>
+            <firstname>Louie</firstname>
+            <lastname>Xie</lastname>
+        </name>
+        <address>
+            <street>10175 109 ST NW</street>
+            <city>Edmonton</city>
+            <province>Alberta</province>
+            <postal>T5J 3P2</postal>
+            <country>Canada</country>
+        </address>
+        <contact>
+            <mobile>780-707-6801</mobile>
+            <email>jxie3@athabasca.edu</email>
+        </contact>
+    </information>
+
+    <education>
+        <university>
+            <institution_name>University of Alberta</institution_name>
+            <degree>
+                <degree_type>Bachelor of Science</degree_type>
+                <major>Computer Engineering (Software Option)</major>
+                <faculty>Engineering</faculty>
+                <department>Electrical and Computer Engineering</department>
+                <career>4th year</career>
+            </degree>
+            <engineering_graduation_average>
+                <grade_point_average>3.6</grade_point_average>
+                <max_possible_value>4.0</max_possible_value>
+                <status>In Progress</status>
+            </engineering_graduation_average>
+            <from>
+                <month>September</month>
+                <year>2018</year>
+            </from>
+            <to>
+                <month>June</month>
+                <year>2023</year>
+            </to>
+        </university>
+    </education>
+
+    <work_experience>
+        <company>
+            <name>New Oriental Education &amp; Technology Group Inc. (NYSE:&#160;EDU)</name>
+            <address>
+                <city>Chengdu</city>
+                <province>Sichuan</province>
+                <country>China</country>
+            </address>
+        </company>
+
+        <position>Teaching Assistant, Intern</position>
+        <role_description>
+            <role>Served at least 100 students and three teachers in one term (full-time).</role>
+        </role_description>
+        <role_description>
+            <role>Statistically analyzed each student’s progress in class and gave feedback and advice.</role>
+        </role_description>
+        <role_description>
+            <role>Communicated among parents and teachers, solved students’ problems, supervised homework completion.</role>
+        </role_description>
+        <role_description>
+            <role>Maintained managed educational tools.</role>
+        </role_description>
+
+        <experience>
+            <award>Awarded 1st place for work performance in teaching assistant group.</award>
+            <improvement>Learned to communicate efficiently and professionally with clients and improved my time management skills.</improvement>
+        </experience>
+        <from>
+            <month>June</month>
+            <year>2018</year>
+        </from>
+        <to>
+            <month>August</month>
+            <year>2018</year>
+        </to>
+    </work_experience>
+
+</resume>
